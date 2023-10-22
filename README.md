@@ -5,7 +5,9 @@
 <p>• I'm currently working on Leetcode problems and mastering the Linux terminal.</p>
 <p>• Reach me at nathankennedy1@gmail.com or on any of the socials linked above.</p>
 
-<img src="Raycast_Logo.png" height="100"/><img src="logseq-color.svg" height="75"/><img src="linux-color.svg" height="75"/>
+<img src="Raycast_Logo.png" height="75"/><img src="logseq-color.svg" height="75"/><img src="linux-color.svg" height="75"/><img src="adobe-color.svg" height="75"/><img src="discord-color.svg" height="75"/><img src="expressvpn-color.svg" height="75"/><img src="github-color.svg" height="75"/><img src="iterm2-color.svg" height="75"/><img src="instapaper-color.svg" height="75"/><img src="medium-color.svg" height="75"/><img src="neovim-color.svg" height="75"/><img src="plex-color.svg" height="75"/><img src="smashingmagazine-color.svg" height="75"/><img src="spotify-color.svg" height="75"/><img src="1password-color.svg" height="75"/>
+
+<img src="css3-color.svg" height="75"/><img src="git-color.svg" height="75"/><img src="go-color.svg" height="75"/><img src="html5-color.svg" height="75"/><img src="htmx_logo.1.png" height="75"/><img src="javascript-color.svg" height="75"/><img src="linux-color.svg" height="75"/><img src="sass-color.svg" height="75"/><img src="svelte-color.svg" height="75"/><img src="zsh-color.svg" height="75"/>
 
 <img src="https://ci3.googleusercontent.com/mail-sig/AIorK4x1Gev9bGziHjttr6Gr4Q0nN-XwoJifYnvWizEZtEl8x9Ox3qldpOkBMtUCynIyBPEIdeL_ADM">
 
