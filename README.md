@@ -1,4 +1,3 @@
-![animated svg header - click for source](animated.svg)
 
 <a target=”_blank” href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=500&size=32&duration=2000&pause=100&color=FF7E0B&random=false&width=435&lines=%40nathan-kennedy;Developer.;Designer." alt="Typing SVG" title="click me to go to repo for animation effect"/></a>
 
