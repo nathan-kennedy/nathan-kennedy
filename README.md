@@ -1,5 +1,5 @@
-<div>
-  <img src="ani-svg.svg" alt="Click to see the source">
+<div style="width: 100%;">
+  <img src="ani-svg.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
 </br>
