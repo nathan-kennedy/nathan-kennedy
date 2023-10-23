@@ -2,10 +2,8 @@
   <img src="ani-svg.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
-</br>
-
 <div style="width: 100%;">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&duration=2000&pause=200&color=F73FB9&multiline=true&random=false&width=435&height=150&lines=%40nathan-kennedy;Dedicated.;Developer.;Designer." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&duration=2000&pause=200&color=F73FB9&multiline=true&random=false&width=435&height=110&lines=%40nathan-kennedy;Dedicated.;Developer.;Designer." alt="Typing SVG" /></a>
 </div>  
 
 <a target="_blank" href="https://twitter.com/Diissiidentt"><img src="https://img.shields.io/badge/x.com-grey?style=flat-square&logo=x&logoColor=white&link=https%3A%2F%2Ftwitter.com%2FDiissiidentt" title="x.com profile"/></a>  &nbsp;<img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" title="Linkedin profile"/>  &nbsp;<a target="_blank" href="https://www.discord.com/users/115246554062782465"><img src="https://img.shields.io/badge/Discord-green?style=flat-square&logo=Discord&logoColor=white&link=https%3A%2F%2Fdiscord.com%2Fusers%2F115246554062782465" title="Discord profile"/></a>  &nbsp;<a target="_blank" href="https://www.facebook.com/nate.kennedy.568/"><img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https%3A%2F%2Fwww.facebook.com%2Fnate.kennedy.568%2F" title="Facebook profile"/></a>  &nbsp;<a target="_blank" href="https://letterboxd.com/Dissident/"><img src="https://img.shields.io/badge/Letterboxd-orange?style=flat-square&logo=Letterboxd&lgreenlor=white&link=https%3A%2F%2Fletterboxd.com%2FDissident%2F" title="Letterboxd profile"/></a>  &nbsp;<a target="_blank" href="https://www.goodreads.com/user/show/98099414-nathan"><img src="https://img.shields.io/badge/Goodreads-blue?style=flat-square&logo=Goodreads&logoColor=white&link=https%3A%2F%2Fwww.goodreads.com%2Fuser%2Fshow%2F98099414-nathan" title="Goodreads profile"/></a>
