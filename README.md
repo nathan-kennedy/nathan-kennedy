@@ -6,7 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&duration=2000&pause=200&color=F73FB9&multiline=true&random=false&width=435&height=110&lines=%40nathan-kennedy;Dedicated.;Developer.;Designer." alt="Typing SVG" /></a>
 </div>  
 
-</br>
+---
 
 <p>🎯 • I’m interested in software development/design/architecture, books, films, and learning (always learning).</p>
 <p>🤝 • I’m looking to collaborate on anything interesting or challenging.</p>
